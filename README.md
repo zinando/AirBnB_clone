@@ -170,6 +170,5 @@ The recognizable commands by the interpreter are the following:
 ## Authors
 
 Ndubumma Samuel | Email: [samuel](mailto:belovedsamex@yahoo.com) | Github: [zinando](https://github.com/zinando)
-Ezendukaku Ezendukaku | Email: [ezendukaku](mailto: ezendukakuifeanyi@gmail.com) | Github: [ifeanyiP](https://github.com/IfeanyiP)
 
-Anthony Etim | Github: [otoobongekim](mailto:otoobongekim@gmail.com)
+Ezendukaku Ezendukaku | Email: [ezendukaku](mailto: ezendukakuifeanyi@gmail.com) | Github: [ifeanyiP](https://github.com/IfeanyiP)
