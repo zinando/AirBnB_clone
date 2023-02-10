@@ -171,4 +171,4 @@ The recognizable commands by the interpreter are the following:
 
 Ndubumma Samuel | Email: [samuel](mailto:belovedsamex@yahoo.com) | Github: [zinando](https://github.com/zinando)
 
-Ezendukaku Ezendukaku | Email: [ezendukaku](mailto: ezendukakuifeanyi@gmail.com) | Github: [ifeanyiP](https://github.com/IfeanyiP)
+Ezendukaku Ezendukaku | Email: [ezendukaku](mailto:ezendukakuifeanyi@gmail.com) | Github: [ifeanyiP](https://github.com/IfeanyiP)
